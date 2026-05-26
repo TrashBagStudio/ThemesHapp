@@ -1,4 +1,4 @@
-#providerid fzKCHAy2
+#providerid: fzKCHAy2
 #profile-title: Черная тема Актривирована
 #color-profile: {"powerOnIconColor":"#323232FF","serverRowSubTitleTextColor":"#7E7F83FF","subHeaderButtonColor":"#CECED7FF","serverRowBackgroundColor":"#1B1B1DFF","subsHeaderColor":"#1B1B1DFF","disclosureSubHeaderTextColor":"#FFFFFF99","profileWebPageIconColor":"#FFFFFFFF","subscriptionTrafficBackgroundColor":"#FFFFFFFF","elipseColors":["#323232FF"],"disclosureHeaderTextColor":"#FFFFFFFF","buttonImageType":"light","additionalOptionsButtonColor":"#FFFFFF99","selectedServerRowColor":"#323232FF","backgroundGradientColorIntensity":1,"serverRowTitleTextColor":"#FFFFFFFF","buttonColor":"#FFFFFFFF","subscriptionInfoTextColor":"#FFFFFFFF","buttonTimerColor":"#000000FF","backgroundGradientRotationAngle":0,"powerIconColor":"#323232FF","subscriptionInfoBackgroundColor":"#1B1B1DFF","topBarButtonsColor":"#FFFFFFFF","backgroundColors":["#000000FF","#1B1B1DFF","#000000FF"],"buttonTextColor":"#000000FF","disclosureProgressViewColor":"#003648FF","supportIconColor":"#FFFFFFFF","settingsControlsTintColor":"#75BA3FFF","backgroundImageType":"light","serverRowChevronColor":"#5F5D83FF"}
-vless://70cc48c5-b2f4-xxxx@1.1.1.1:443?security=tls&type=ws#Вы можете удалить
+vless://70cc48c5-b2f4-xxxx@1.1.1.1:443?security=tls&type=ws#Вы можете удалить подписку
